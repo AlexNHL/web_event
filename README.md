@@ -4,3 +4,6 @@
 * Implemented the system using React for the front-end and Node.js with Express for the back-end
 * Utilized MongoDB as the database, containing user and event information
 * Enabled users to search locations by keyword or categories, comment on events, and label locations as favorites
+
+
+In order to avoid plagiarism, this work is not available. It will be recover soon.
